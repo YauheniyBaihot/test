@@ -1,0 +1,31 @@
+{
+  "capabilities": {
+    "streaming": true
+  },
+  "defaultInputModes": [
+    "text"
+  ],
+  "defaultOutputModes": [
+    "text"
+  ],
+  "description": "Just a hello world agent",
+  "name": "Hello World Agent",
+  "skills": [
+    {
+      "description": "just returns hello world",
+      "examples": [
+        "hi",
+        "hello world"
+      ],
+      "id": "hello_world",
+      "name": "Returns hello world",
+      "tags": [
+        "hello world"
+      ]
+    }
+  ],
+  "supportsAuthenticatedExtendedCard": true,
+  "url": "https://sdasd2das-asd.com/",
+  "version": "1.0.0",
+  "protocolVersion": "2.30"
+}
